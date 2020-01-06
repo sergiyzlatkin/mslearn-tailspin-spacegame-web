@@ -1,3 +1,4 @@
+[![Build Status](https://szlatkin.visualstudio.com/Tailspin/_apis/build/status/sergiyzlatkin.mslearn-tailspin-spacegame-web?branchName=master)](https://szlatkin.visualstudio.com/Tailspin/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
